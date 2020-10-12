@@ -1,0 +1,7 @@
+1 JPA de usuario e senha, testar applicação usuarios documentos, importando collection
+2 Comentar metodos post, and e or controller, comentar or controler
+
+1 inserir senha testar a minha collection
+2 colocar pom e testar no navegador, testar post
+2 testar get no postman, basic senha
+3 testar post no postman, nao vai funcionar, pq tem que liberar
